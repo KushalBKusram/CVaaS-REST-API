@@ -1,7 +1,7 @@
 # CVaaS-REST-API
 
 ## Technical Description
- A RESTful implementation of DBaaS using Docker, Python, Flask, MongoDB and TensorFlow.
+ A RESTful implementation of CVaaS using Docker, Python, Flask, MongoDB and TensorFlow.
 
 ## Concept
 A database initialized using MongoDB with the objective to store username, encrypted password and provide image recognition services. Each user is allocated 6 tokens. The expense of each registration and image classification being 1 token. 
